@@ -1,1 +1,1 @@
-
+Sample data binding
